@@ -9,14 +9,14 @@ I am a final-year undergraduate student at [Shanghai Jiao Tong University (SJTU)
 
 News
 ======
-- **2025.2**: [ComfyBench](https://xxyqwq.github.io/ComfyBench) is accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).
-- **2025.2**: I received the offer from [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) to pursue my Ph.D. study.
+- **2025.02**: [ComfyBench](https://xxyqwq.github.io/ComfyBench) is accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).
+- **2025.02**: I received the offer from [the Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/aboutus/university-intro.html) to pursue my Ph.D. study.
 - **2024.11**: The preprint of my first work [ComfyBench](https://xxyqwq.github.io/ComfyBench) is submitted to [arXiv](https://arxiv.org/abs/2409.01392), with the code open-sourced on [GitHub](https://github.com/xxyQwQ/ComfyBench).
 - **2024.05**: I joined the [Shanghai AI Laboratory](https://www.shlab.org.cn/aboutus) as a research intern under the supervision of [Dr. Lei Bai](http://leibai.site/).
 
 Publications
 ======
-- **<font color="#001f3f">ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems</font>**<br />
+- **<font color="#1e4b8d">ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems</font>**<br />
 **Xiangyuan Xue**, Zeyu Lu, Di Huang, Zidong Wang, Wanli Ouyang, Lei Bai*<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR** 2025)<br />
 [[Paper]](https://arxiv.org/abs/2409.01392) [[Project]](https://xxyqwq.github.io/ComfyBench) [[Code]](https://github.com/xxyQwQ/ComfyBench)<br />
