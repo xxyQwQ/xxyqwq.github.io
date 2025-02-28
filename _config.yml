@@ -25,7 +25,7 @@ author:
   avatar           : "portrait.jpg"
   name             : "Xiangyuan Xue"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate Student at Shanghai Jiao Tong University"
+  bio              : "Undergraduate Student at SJTU"
   location         : "Shanghai, China"
   employer         : # example: "Shanghai Jiao Tong University"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ku1QbowAAAAJ"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0006-8228-7202"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
