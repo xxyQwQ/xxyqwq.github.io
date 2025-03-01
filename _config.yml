@@ -22,7 +22,7 @@ repository               : "xxyqwq/xxyqwq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait.jpg"
+  avatar           : "portrait.png"
   name             : "Xiangyuan Xue"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at SJTU"
