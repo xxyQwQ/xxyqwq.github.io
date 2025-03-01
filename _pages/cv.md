@@ -15,7 +15,7 @@ Education
   - September 2021 - June 2025 (expected)
   - Major in Artificial Intelligence (Honor Class)
   - GPA 95.44/100, Rank 1/94
-  - A+ Courses: Mathematical Analysis, Linear Algebra, Linear and Convex Optimization, Stochastic Processes, Design and Analysis of Algorithms, Deep Learning and Its Applications, and 31 others
+  - A+ Courses: Mathematical Analysis, Linear Algebra, Linear and Convex Optimization, Stochastic Processes, Design and Analysis of Algorithms, Deep Learning and Its Applications, and 32 others
 
 Selected Honors
 ======
