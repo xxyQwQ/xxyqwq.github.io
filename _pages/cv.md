@@ -22,7 +22,7 @@ Selected Honors
 - **National Scholarship (Three Times)**, December 2022, 2023, 2024
   - Awarded to top 0.2% students nationwide, funded by the Chinese Ministry of Education
 - **First-Class Academic Excellence Scholarship (Three Times)**, December 2022, 2023, 2024
-  - Highest academic scholarship awarded to top 1\% students in Shanghai Jiao Tong University
+  - Highest academic scholarship awarded to top 1% students in Shanghai Jiao Tong University
 - **[Guozhi Class Program Membership](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)**, November 2021
   - Training program for top-notch talents in AI jointly established by SJTU and Shanghai AI Lab
 - **[Zhiyuan Honors Program Membership](https://en.zhiyuan.sjtu.edu.cn/en/about/overview)**, September 2021
