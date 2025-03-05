@@ -38,7 +38,7 @@ Research Experience
   - Submitted to ICML 2025 Position Paper Track (Second Author)
   - Advisor: [Dr. Lei Bai](http://leibai.site/) & [Dr. Zhenfei Yin](https://yinzhenfei.github.io/)
   - Position the scaling of LLM-based multi-agent systems as a complex systematical design, presenting an envisioned framework for the futuristic large-scale multi-agent systems.
-- **[ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](/404/)**
+- **[ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](https://arxiv.org/abs/2503.02390)**
   - Submitted to ACL ARR 2025 (Third Author)
   - Advisor: [Dr. Lei Bai](http://leibai.site/) & [Dr. Zhenfei Yin](https://yinzhenfei.github.io/)
   - Propose a multi-agent system which integrates task graph generation with a reward-driven two-stage agent selection process, achieving state-of-the-art performance on reasoning tasks.
